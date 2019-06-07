@@ -1,1 +1,3 @@
 使用smartgit时，修改的文件要先commit，但这是的commit是本地的还没有commit到remote repository。点击push会将本地的commit推送remote origin repository
+
+git branch
